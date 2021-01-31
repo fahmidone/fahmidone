@@ -49,7 +49,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="programmingbit1's GitHub Stats" src="https://github-readme-stats.programmingbit1.vercel.app/api?username=programmingbit1&show_icons=true&hide_border=true" />
+  <img align="left" alt="programmingbit1's GitHub Stats" src="hhttps://programmingbit1.vercel.app/api?username=programmingbit1&show_icons=true&hide_border=true" />
 
 </details>
 
