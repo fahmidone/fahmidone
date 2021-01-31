@@ -53,6 +53,8 @@
 
 </details>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingbit1)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://progbit.tk
 [facebook]: http://facebook.com/programmingbit
 [youtube]: https://www.youtube.com/channel/UCJLF04DgzsWHzPdJArbZICA?sub_confirmation=1
