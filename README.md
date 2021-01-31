@@ -49,11 +49,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="programmingbit1's GitHub Stats" src="hhttps://programmingbit1.vercel.app/api?username=programmingbit1&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingbit1)](https://github.com/programmingbit1)  
 
 </details>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingbit1)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://progbit.tk
 [facebook]: http://facebook.com/programmingbit
