@@ -47,11 +47,19 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Most Used Languages</summary>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingbit1)](https://github.com/programmingbit1)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmingbit1&layout=compact)](https://github.com/programmingbit1)
 
 </details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingbit1&show_icons=true&theme=radical)](https://github.com/programmingbit1)  
+
+</details>
+
 
 [website]: https://progbit.tk
 [facebook]: http://facebook.com/programmingbit
