@@ -42,7 +42,7 @@
 
 ---
 
-
+<details>
   <summary>:zap: Most Used Languages</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmingbit1&layout=compact)](https://github.com/programmingbit1)
