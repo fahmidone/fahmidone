@@ -41,18 +41,27 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCJLF04DgzsWHzPdJArbZICA?sub_confirmation=1)
 
 ---
+### 📕 Latest Artcles
+
+<!-- ARTICLES:START -->
+- [প্রথম প্রোগ্রামিং ভাষা কিভাবে লিখা হয়েছিল ?](https://www.progbit.tk/search/label/articles)
+<!-- ARTICLES:END -->
+
+➡️ [more articles...](https://www.progbit.tk/search/label/articles)
+
+---
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmingbit1&layout=compact)](https://github.com/programmingbit1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmid-hasan&layout=compact)](https://github.com/programmingbit1)
 
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingbit1&show_icons=true&theme=radical)](https://github.com/programmingbit1)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahmid-hasan&show_icons=true&theme=radical)](https://github.com/programmingbit1)  
 
 </details>
 
