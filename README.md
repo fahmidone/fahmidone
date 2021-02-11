@@ -44,7 +44,8 @@
 ### 📕 Latest Artcles
 
 <!-- ARTICLES:START -->
-- [প্রথম প্রোগ্রামিং ভাষা কিভাবে লিখা হয়েছিল ?](https://www.progbit.tk/search/label/articles)
+- [প্রথম প্রোগ্রামিং ভাষা কিভাবে লিখা হয়েছিল ?](https://www.progbit.tk/2021/02/how-first-programming-language-was-invented.html)
+- [Python Flask](https://www.progbit.tk/2021/02/python-flask.html)
 <!-- ARTICLES:END -->
 
 ➡️ [more articles...](https://www.progbit.tk/search/label/articles)
