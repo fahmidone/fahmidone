@@ -31,11 +31,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [3d cube with html & css](https://www.youtube.com/watch?v=nZV7yNpKkKo)
 - [Digital clock using python | Python tkinter tutorial](https://www.youtube.com/watch?v=3UTQKlj54SY)
 - [Get random jokes with python || Pyjokes Tutorial ||পাইথন জোকস জেনারেটর](https://www.youtube.com/watch?v=7DUxB2IGH1U)
 - [Create a profile card using HTML 5 & CSS 3 || Programming Bit](https://www.youtube.com/watch?v=PcPY_cfVyxs)
 - [Create an animated Add to cart button using HTML 5, JAVASCRIPT & CSS 3 || Programming Bit](https://www.youtube.com/watch?v=wCnOXwnm4g4)
-- [পাইথন ডাউনলোড ও ইন্সটলেশান || প্রোগ্রামিং বিট](https://www.youtube.com/watch?v=PiA1P3tv_9k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCJLF04DgzsWHzPdJArbZICA?sub_confirmation=1)
