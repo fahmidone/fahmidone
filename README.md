@@ -31,7 +31,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [CSS card hover effect](https://www.youtube.com/watch?v=PdrwQJzabsw)
+- [CSS card hover effects](https://www.youtube.com/watch?v=PdrwQJzabsw)
 - [Open and Close Menu Using HTML and CSS](https://www.youtube.com/watch?v=hutz6lwNnPE)
 - [3d cube with html & css](https://www.youtube.com/watch?v=nZV7yNpKkKo)
 - [Digital clock using python | Python tkinter tutorial](https://www.youtube.com/watch?v=3UTQKlj54SY)
