@@ -40,14 +40,9 @@ My Profile stats              |  My Language Contribution
 
 <details>
 <summary>📚 My Latest Blog Posts</summary>
-<script type="text/javascript">   var numposts = 500; var standardstyling = true;   function showrecentposts(json) {  for (var i = 0; i < numposts; i++) {   var entry = json.feed.entry[i];   var posttitle = entry.title.$t;   var posturl;   if (i == json.feed.entry.length) break;   for (var k = 0; k < entry.link.length; k++) {    if (entry.link[k].rel == 'alternate') {     posturl = entry.link[k].href;     break;    }   }   posttitle = posttitle.link(posturl);   if (standardstyling) document.write('<li>');   document.write(posttitle);  }   if (standardstyling) document.write('</li>'); }</script> <br /><ul> <script src="https://newtonpotro.xyz/feeds/posts/default?orderby=published&amp;alt=json-in-script&amp;callback=showrecentposts&amp;max-results=999"></script></ul>
-</details>
-
-<details>
-
-<summary>:zap: My Recent Github Activities</summary>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
+- [ফ্রন্টেন্ড ডেভেলপার রোডম্যাপ ও রিসোর্স](https://www.newtonpotro.xyz/2021/04/frontend-developer-roadmap.html)
+- [ডেভেলপারদের জন্য ডিজাইন রিসোর্স](https://www.newtonpotro.xyz/2021/04/design-resources-for-devs.html)
+- [৫ টি বেস্ট প্রোগ্রামিং ল্যাঙ্গুয়েজ যেগুলো আপনি শিখতে পারেন।](https://www.newtonpotro.xyz/2021/04/top5-languages-2021.html)
+- [সেরা ৫ টি অনলাইন কোর্স](https://www.newtonpotro.xyz/2021/04/top5-free-courses-1.html)
+- [Visual Studio Code - Installation, Plugins, Themes and Customization](https://www.newtonpotro.xyz/2021/04/vs-code.html)
 </details>
