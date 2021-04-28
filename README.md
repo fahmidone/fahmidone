@@ -40,9 +40,12 @@ My Profile stats              |  My Language Contribution
 
 <details>
 <summary>📚 My Latest Blog Posts</summary>
+
 - [ফ্রন্টেন্ড ডেভেলপার রোডম্যাপ ও রিসোর্স](https://www.newtonpotro.xyz/2021/04/frontend-developer-roadmap.html)
 - [ডেভেলপারদের জন্য ডিজাইন রিসোর্স](https://www.newtonpotro.xyz/2021/04/design-resources-for-devs.html)
 - [৫ টি বেস্ট প্রোগ্রামিং ল্যাঙ্গুয়েজ যেগুলো আপনি শিখতে পারেন।](https://www.newtonpotro.xyz/2021/04/top5-languages-2021.html)
 - [সেরা ৫ টি অনলাইন কোর্স](https://www.newtonpotro.xyz/2021/04/top5-free-courses-1.html)
 - [Visual Studio Code - Installation, Plugins, Themes and Customization](https://www.newtonpotro.xyz/2021/04/vs-code.html)
+
 </details>
+
