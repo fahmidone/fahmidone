@@ -25,6 +25,7 @@ Hi, I'm Fahmid Hasan Mashud, a passionate developer from Bangladesh.
 - 🌱 Currently I'm learning
 Machine Learning and Deep Learning.
 - 💬 Ask me about anything [here](https://fb.me/fahmidhmashud)
+- My Most recent Blog Post - [সেরা ৫ টি অনলাইন কোর্স [Free]](https://www.newtonpotro.xyz/2021/04/top5-free-courses-1.html)
 
 **My Languages and Tools:**  
 
@@ -39,7 +40,8 @@ My Profile stats              |  My Language Contribution
 ![fahmidhmashud :: Profile Stats](https://github-readme-stats.vercel.app/api?username=fahmidhmashud&show_icons=true&theme=dark) | ![fahmidhmashud :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmidhmashud&langs_count=10&theme=tokyonight&layout=compact&hide=html)
 
 <details>
-<summary>📚 My Latest Blog Posts</summary>
+<summary>📚 My all Blog Posts</summary>
+<br />
 
 - [ফ্রন্টেন্ড ডেভেলপার রোডম্যাপ ও রিসোর্স](https://www.newtonpotro.xyz/2021/04/frontend-developer-roadmap.html)
 - [ডেভেলপারদের জন্য ডিজাইন রিসোর্স](https://www.newtonpotro.xyz/2021/04/design-resources-for-devs.html)
