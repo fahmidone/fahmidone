@@ -25,15 +25,13 @@ Hi, I'm Fahmid Hasan Mashud, a passionate developer from Bangladesh.
 - 🌱 Currently I'm learning
 Machine Learning and Deep Learning.
 - 💬 Ask me about anything [here](https://fb.me/fahmidhmashud)
-- My Most recent Blog Post - [সেরা ৫ টি অনলাইন কোর্স [Free]](https://www.newtonpotro.xyz/2021/04/top5-free-courses-1.html)
+- My Most recent Blog Post - [৫ টি বেস্ট সিএসএস ফ্রেমওয়ার্ক (২০২১)](https://www.newtonpotro.xyz/2021/05/top5-css-frameworks-2021.html)
 
 **My Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>   
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 My Profile stats              |  My Language Contribution
@@ -44,11 +42,9 @@ My Profile stats              |  My Language Contribution
 <summary>📚 My all Blog Posts</summary>
 <br />
 
-- [ফ্রন্টেন্ড ডেভেলপার রোডম্যাপ ও রিসোর্স](https://www.newtonpotro.xyz/2021/04/frontend-developer-roadmap.html)
-- [ডেভেলপারদের জন্য ডিজাইন রিসোর্স](https://www.newtonpotro.xyz/2021/04/design-resources-for-devs.html)
+- [৫ টি বেস্ট সিএসএস ফ্রেমওয়ার্ক (২০২১)](https://www.newtonpotro.xyz/2021/05/top5-css-frameworks-2021.html)
 - [৫ টি বেস্ট প্রোগ্রামিং ল্যাঙ্গুয়েজ যেগুলো আপনি শিখতে পারেন।](https://www.newtonpotro.xyz/2021/04/top5-languages-2021.html)
 - [সেরা ৫ টি অনলাইন কোর্স](https://www.newtonpotro.xyz/2021/04/top5-free-courses-1.html)
 - [Visual Studio Code - Installation, Plugins, Themes and Customization](https://www.newtonpotro.xyz/2021/04/vs-code.html)
 
 </details>
-
