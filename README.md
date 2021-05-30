@@ -1,4 +1,4 @@
-### Assalamualaikum, I'm [Fahmid!](https://fahmidhmashud.github.io) 👋
+### Assalamualaikum, I'm [Fahmid(ফাহমিদ)!](https://fahmidhmashud.github.io) 👋
 
 <a href="https://www.newtonpotro.xyz/">
   <img align="left" alt="Fahmid Hasan Mashud Blog | NewtonPotro" width="23px" src="https://raw.githubusercontent.com/fahmidhmashud/fahmidhmashud/master/icons/article.svg" />
