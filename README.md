@@ -48,3 +48,6 @@ My Profile stats              |  My Language Contribution
 - [Visual Studio Code - Installation, Plugins, Themes and Customization](https://www.newtonpotro.xyz/2021/04/vs-code.html)
 
 </details>
+
+### My Profile Stats
+![Profile views](https://gpvc.arturio.dev/fahmidhmashud)
