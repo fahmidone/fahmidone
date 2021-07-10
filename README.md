@@ -19,24 +19,21 @@
 <br />
 <br />
 
-Hi, I'm Fahmid Hasan Mashud, a passionate developer from Bangladesh.
-
-- 🔭 I’m currently working on [null](#)
-- 🌱 Currently I'm learning Machine Learning and Deep Learning.
-- 💬 Ask me about anything [here](https://fb.me/fahmidhmashud)
-- My Most recent Blog Post - [null](#)
+![Profile views](https://gpvc.arturio.dev/fahmidhmashud)
 
 **My Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
-My Profile stats              |  My Language Contribution
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **My Github Stats:**
+
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmidhmashud&theme=algolia&hide_border=true"/>
+</p>
+
+My Profile stats              |  My Language Contributions
 :-------------------------:|:-------------------------:
 ![fahmidhmashud :: Profile Stats](https://github-readme-stats.vercel.app/api?username=fahmidhmashud&show_icons=true&theme=dark) | ![fahmidhmashud :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmidhmashud&langs_count=10&theme=tokyonight&layout=compact&hide=html)
-
-
-### My Profile Stats
-![Profile views](https://gpvc.arturio.dev/fahmidhmashud)
