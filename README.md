@@ -36,4 +36,4 @@
 
 My Profile stats              |  My Language Contributions
 :-------------------------:|:-------------------------:
-![fahmidhmashud :: Profile Stats](https://github-readme-stats.vercel.app/api?username=fahmidhmashud&show_icons=true&theme=dark) | ![fahmidhmashud :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmidhmashud&langs_count=10&theme=tokyonight&layout=compact&hide=html)
+![fahmidhmashud :: Profile Stats](https://github-readme-stats.vercel.app/api?username=fahmidhmashud&show_icons=true&theme=algolia) | ![fahmidhmashud :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmidhmashud&langs_count=10&theme=algolia&layout=compact&hide=html)
